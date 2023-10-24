@@ -1,0 +1,12 @@
+Exercice 2:
+1) Aller sur la branche principale pour modifier des fichiers. Par exemple, créer un fichier
+« fichier.txt » dans le dossier que vous avez déjà créé « Test », puis ajouter le à l’index.
+2) Vous pouvez à tout moment voir l’état dans lequel sont vos fichiers, c’est-à-dire voir les
+changements qui ont été indexés ou ceux qui ne l’ont pas été, avec la commande git status.
+Afficher l’état d vos fichiers.
+3) Créer un stash.
+4) Assurez-vous que la branche principale soit de nouveau propre, en faisant un nouveau git
+status.
+5) Créer une nouvelle branche « brancheCommit ».
+6) Afficher les branches existantes.
+7) Basculer sur cette branche.
