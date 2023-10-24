@@ -1,0 +1,11 @@
+Exercice 1:
+1) Créer un dossier "Test" avec la commande mkdir, qui sera notre dépôt Git, et dirigez-vous
+dans ce dossier.
+2) Initialisez le dépôt.
+3)creer un fichier info.txt dans Test en utilisant VS
+4)Ecrivez dans le fichier votre nom, prenom, et mail profesionnel 
+5)Créer un reposetory "information" sur GITHUB.
+6)Envoyer le fichier vers le reposetory.
+
+
+
